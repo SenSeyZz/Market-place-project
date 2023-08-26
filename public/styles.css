@@ -1,0 +1,50 @@
+h1 {
+    color: #007bff;
+  }
+
+  .centered-element {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -50px;
+  }
+
+.graph{
+  position: absolute;
+    top: 25%;
+    left: 25%;
+    margin-top: -75px;
+    margin-left: -50px;
+}
+
+.smallGreenRectangle{
+  position: absolute;
+  top: -25%;
+  left: 40%;
+  width:10px;
+  height:150px;
+  background:green;
+}
+
+.smallRedRectangle{
+  position: absolute;
+  top: -25%;
+  left: 40%;
+  width:10px;
+  height:150px;
+  background:red;
+}
+.rectangle{
+  
+  height:100px;
+  background:green;
+}
+
+.redRectangle{
+  width:50px;
+  height:100px;
+  background:red;
+  
+}
+
